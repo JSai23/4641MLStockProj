@@ -1,7 +1,6 @@
 # 4641-Group-Project
 ## Team Members: JayaSai Somasundaram, Roman Karmazin, Anna Nguyen, Wontaek Kim
 
-GitHub Pages link: https://github.gatech.edu/pages/anguyen373/4641-Group-Project/ (open to all enterprise members)
 
 # Infographic
 ![Predicting Stock Based on impactful features](https://github.gatech.edu/storage/user/59946/files/9d7b8403-604a-4ddb-b84b-05babe1eedfb)
